@@ -1,0 +1,112 @@
+
+*body {
+  background-color:red;
+  color: black;
+}
+
+
+.cloths {
+  background-color: yellow;
+  height: 1000px;
+  width: 2000px;
+}
+
+.jewellery {
+  background-color: red;
+  height: 1000px;
+  width: 2000px;
+}
+
+.Electronics {
+  background-color: green;
+  height: 800px; 
+  width: 1500px; 
+}
+
+.shoes {
+  background-color: green;
+  height: 1000px;
+  width: 2000px;
+  
+}
+
+.container-fluid {
+  border: 2px solid black; 
+  
+ 
+ 
+}
+
+
+.clothsbox
+
+ {
+  margin-left: 100px;
+  display: inline-block;
+  margin-top :10px;
+
+  
+}
+
+
+p { 
+  color:black;
+  font-weight: bold;
+  text-align: center;
+  margin: 0px;
+  
+  
+ }
+.footer-bottom{
+        margin-top: 3rem;
+      
+}
+.search{
+    margin-left:200px;
+}
+.main-container{
+    text-align:white;
+}
+.box{
+  border: 1px solid red;
+  height:3000px;
+  width:100%;
+  margin-top: 15px;
+}
+
+
+.carousel-inner{
+  height: 500px;
+  width: 50px;
+  margin: auto;
+}
+
+.carousel{
+  border: 2px solid black; 
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-top:13px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.5);
+}
+/* .card img {
+  object-fit: cover;
+  height: 100%; 
+  width: 100%; 
+} */
+
+.listing {
+  background-color: pink;
+  height: 1000px;
+  width: 2000px;
+}
+.custom-right-align {
+  text-align: right;
+}
+
+.custom-right-align-text {
+  font-weight: 1000;
+  margin-right: 50px; 
+}
